@@ -1,0 +1,13 @@
+h1{
+  font-family: "Alegreya",serif;
+  font-size: 45px;
+  color: #004DCC;
+}
+
+header{
+  background-color: #000000;
+  background-image:url("suit.jpg");
+  padding: 10vw 2em;
+  background-position: center center;
+  background-size: cover;
+}
